@@ -1,2 +1,2 @@
-# Th-c-t-p-m-ng
+# THỰC TẬP MẠNG
 Tìm hiểu Kỹ thuật chuyển mạch ATM - Asynchronous Transfer Mode
