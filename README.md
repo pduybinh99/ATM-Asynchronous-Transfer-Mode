@@ -11,5 +11,3 @@ Tìm hiểu Kỹ thuật chuyển mạch ATM - Asynchronous Transfer Mode
 5.	CẤU HÌNH ATM	
 6.	HOẠT ĐỘNG CỦA ATM	
 7.	Định tuyến của ATM
-7.a.	Nguyên tắc tự định tuyến
-7.b.	Nguyên tắc bảng định tuyến
